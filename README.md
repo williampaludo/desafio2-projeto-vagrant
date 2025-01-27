@@ -1,5 +1,8 @@
 # Desafio 2 projeto Vagrant
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  </div>
 
 
 Criar uma máquina virtual no Vagrant e, em seguida, padronizá-la através de um shell script. O objetivo é configurar a VM com pacotes essenciais e criar um usuário personalizado, versionando o projeto no GitHub.
