@@ -5,3 +5,10 @@
 ###
 Criar uma máquina virtual no Vagrant e, em seguida, padronizá-la através de um shell script. O objetivo é configurar a VM com pacotes essenciais e criar um usuário personalizado, versionando o projeto no GitHub.
 
+Passos para subir a VM:  
+Baixe os arquivos em sua maquina e rode através do comando:  
+`vagrant up`
+
+Provisionamento:  
+Através do script provision.sh após a criação da vm sera automatizado a instalação dos pacotes: vim, curl, telnet, unzip, wget, net-tools, htop, nmap  
+Também será criado um usuário com nome: william
