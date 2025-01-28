@@ -1,5 +1,5 @@
 
-# **Desafio 2: Provisionamento de VM com Vagrant**
+# **Desafio: Provisionamento de VM com Vagrant**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo" />
